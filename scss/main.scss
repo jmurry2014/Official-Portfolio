@@ -4,6 +4,7 @@ $show-home-image:true;
 $home-image:url(../img/background.jpg);
 $background-opacity:0.7;
 @import 'config';
+@import 'menu';
 
 *{
     box-sizing: border-box;
