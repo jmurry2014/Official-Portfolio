@@ -1,0 +1,22 @@
+{
+  "name": "official-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmurry2014/Official-Portfolio.git"
+  },
+  "author": "James Murry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmurry2014/Official-Portfolio/issues"
+  },
+  "homepage": "https://github.com/jmurry2014/Official-Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
