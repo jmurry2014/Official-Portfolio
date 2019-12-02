@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/jmurry2014/Official-Portfolio/issues"
   },
-  "homepage": "https://github.com/jmurry2014/Official-Portfolio#readme",
+  "homepage": "https://github.com/jmurry2014/Official-Portfolio",
   "dependencies": {
     "node-sass": "^4.13.0"
   }
